@@ -15,6 +15,7 @@
                 <asp:Button ID="Button1" Text="Refresh Panel" runat="server" />
                 <asp:Button ID="Button6" Text="Inside Postback" runat="server" />
                 <asp:Button ID="Button7" Text="Ansync Postback" runat="server" />
+                <asp:Button ID="Button9" runat="server" Text="No Action" />
             </fieldset>
         </ContentTemplate>
         <Triggers>
